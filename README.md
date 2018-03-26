@@ -1,4 +1,4 @@
-# otsu-threshold-selection
+# Otsu-Threshold-Selection
 In this project, it shows the implementation of Otsu method. The original Otsu method, the graph structure and the depth first search (DFS) were used to implement the multi-threshold method.
 
 # Contact
